@@ -2,6 +2,8 @@ Author: Xavier Baez
 
 Company: Brandastic
 
+FRAMEWORK: Magento 2
+
 HOW TO USE:
 
 http://mage2.com/autocart/cart/save/pid1/4/pid2/5
